@@ -1,16 +1,6 @@
-# expense_tracker
+# Expense Tracker
+Now, recording your expenses is smoother than ever. Just Enter the details, hit save, and voila! Your expense is securly stored for future reference. Simplify your financial record-keeping and stay organized effortlessly. Upgrade your expense tracking game today!
 
-A new Flutter project.
+## Copyright
+© 2024 Om Prakash. All Rights Reserved
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
